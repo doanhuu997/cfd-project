@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/cfd-project/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/cfd-project/static/js/main.319e4c27.chunk.js",
-    "main.js.map": "/cfd-project/static/js/main.319e4c27.chunk.js.map",
+    "main.js": "/cfd-project/static/js/main.cfef9bac.chunk.js",
+    "main.js.map": "/cfd-project/static/js/main.cfef9bac.chunk.js.map",
     "runtime-main.js": "/cfd-project/static/js/runtime-main.94030f00.js",
     "runtime-main.js.map": "/cfd-project/static/js/runtime-main.94030f00.js.map",
     "static/js/2.6905ea6c.chunk.js": "/cfd-project/static/js/2.6905ea6c.chunk.js",
@@ -12,7 +12,9 @@
     "index.html": "/cfd-project/index.html",
     "static/css/main.8c8b27cf.chunk.css.map": "/cfd-project/static/css/main.8c8b27cf.chunk.css.map",
     "static/js/2.6905ea6c.chunk.js.LICENSE.txt": "/cfd-project/static/js/2.6905ea6c.chunk.js.LICENSE.txt",
+    "static/media/CFD-video-bg2.6ea4dba4.mp4": "/cfd-project/static/media/CFD-video-bg2.6ea4dba4.mp4",
     "static/media/avatar-lg.2cb0600f.png": "/cfd-project/static/media/avatar-lg.2cb0600f.png",
+    "static/media/bg-cover.110dadf6.jpg": "/cfd-project/static/media/bg-cover.110dadf6.jpg",
     "static/media/icon-heart.a6346518.svg": "/cfd-project/static/media/icon-heart.a6346518.svg",
     "static/media/icon-user-white.edd5af04.svg": "/cfd-project/static/media/icon-user-white.edd5af04.svg",
     "static/media/icon-viewmore.2b61864d.svg": "/cfd-project/static/media/icon-viewmore.2b61864d.svg",
@@ -23,6 +25,6 @@
     "static/js/runtime-main.94030f00.js",
     "static/js/2.6905ea6c.chunk.js",
     "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.319e4c27.chunk.js"
+    "static/js/main.cfef9bac.chunk.js"
   ]
 }
