@@ -9,7 +9,7 @@ export default function Course({ title, thumbnail, short_description, status, te
     return (
         <div className="col-md-4 course">
             <div className="wrap">
-                <Link className="cover" to={`/course/${slug}`}>
+                <Link className="cover" to={`/cfd-project/course/${slug}`}>
                     <img src={thumbnail.link} alt="" />
                     {
                         status === "dang-dien-ra" ? <span className="badge b1">Dang Diễn Ra</span>
