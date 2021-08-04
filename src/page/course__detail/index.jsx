@@ -35,7 +35,7 @@ export default function Course_detail() {
   return (
 
     <main className="course-detail" id="main">
-      <section className="banner" style={{ bacground: `url ( ${course.thumbnail.link})` }} >
+      <section className="banner2" style={{ bacground: `url ( ${course.thumbnail.link})` }} >
         <div className="container">
           <div className="info">
             <h1>{course.title}</h1>

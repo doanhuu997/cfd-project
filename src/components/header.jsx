@@ -33,7 +33,7 @@ export default function Header() {
                         </div>
                         <span className="text">menu</span>
                     </div>
-                    <NavLink  exact to="/" className="logo" >
+                    <NavLink  exact to="/cfd-project" className="logo" >
                         <img src={logo} alt="" />
                         <h1>CFD</h1>
                     </NavLink>

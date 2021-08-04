@@ -32,7 +32,7 @@ export default function Course({ title, thumbnail, short_description, status, te
                     </div>
                 </Link>
                 <div className="info">
-                    <Link className="name" to={`/course/${slug}`}>
+                    <Link className="name" to={`/cfd-project/course/${slug}`}>
                         {title}
                     </Link>
                     <p className="des">

@@ -1,10 +1,11 @@
 import React from 'react';
-
+import bg_cover from '../../../assets/img/bg-cover.jpg'
+import cfdvideo from '../../../assets/video/CFD-video-bg2.mp4'
 export default function Banner() {
 
 
     return (
-        <div className="banner jarallax">
+        <div className="banner2 jarallax" style={{display: 'flex !important'}}>
         <div className="container">
             <div className="content">
                 <h2 className="title">Thực Chiến</h2>
@@ -13,8 +14,8 @@ export default function Banner() {
             </div>
         </div>
         <div className="jarallax-img">
-            <img data-src="/img/bg-cover.jpg" alt="" className="lazyload" />
-            <div className="video-bg lazyload" data-src="video/CFD-video-bg2.mp4" />
+            <img data-src={bg_cover} alt="" className="lazyload" />
+            <div className="video-bg lazyload" data-src={cfdvideo} />
         </div>
     </div>
     );
