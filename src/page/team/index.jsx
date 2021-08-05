@@ -1,4 +1,5 @@
 import React from 'react';
+import avt1 from '../../assets/img/thumb-member.jpg'
 export default function Team() {
     return (
         <main className="team" id="main">
@@ -15,7 +16,7 @@ export default function Team() {
                         <div className="item col-md-6 col-sm-6">
                             <div className="wrap">
                                 <div className="cover">
-                                    <img src="./img/thumb-member.jpg" alt="" />
+                                    <img src={avt1} alt="" />
                                 </div>
                                 <div className="info">
                                     <div className="name">

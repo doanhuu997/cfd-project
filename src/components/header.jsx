@@ -74,7 +74,7 @@ export default function Header() {
             <nav className="nav">
                 <ul>
                     <li className="li_login">
-                        <a href="#">Đăng nhập</a>
+                        <a href="#"  onClick={ () => dispatch(Popup(true))}>Đăng nhập</a>
                         <NavLink to="/register">Đăng ký</NavLink>
                     </li>
                     <li >
